@@ -20,6 +20,8 @@ This schema defines the structure of the “ChatGPT Wins” Airtable base used b
 | 12 | **Cost Value Justification** | Long text (multiline) | A short rationale explaining how you arrived at the value estimate. |
 | 13 | **Next Steps** | Long text (multiline) | Describe what should happen next. |
 
+| 14 | **Time Saved (hours)** | Number | Number with 2 decimals. Store time saved per win (example: 0.25 = 15 minutes). |
+
 ### Notes on the “URL” Field
 
 This template originally used a field named **URL** to store the dollar value as text (for example, `$150`).  The formula field **Value (Number)** then strips the dollar sign and converts it to a number.  Although this works, it can be confusing because the name suggests a web link rather than a value.
