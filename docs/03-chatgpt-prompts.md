@@ -19,7 +19,8 @@ When I provide details about a new win, create a record in the “Imported table
 • **URL** (long text) – this should contain a dollar value string like $150.  If I don’t specify a value, ask me for an estimate.
 • **Multiple Select** (multiple select): tags such as automation, home‑ops, printing, productivity, tracking.
 • **Notes** (long text) – optional extra context.
-• **Priority** (single select): choose P1–P10 based on importance.
+• **Priority** (single select): choose P
+    * "**Time Saved (hours)**" (number) – estimate the hours saved for this win (example: 0.5, 1.0, 2.25). If I don’t specify it, ask me.1–P10 based on importance.
 • **Cost Value Justification** (long text) – leave blank for now.
 • **Next Steps** (long text) – leave blank unless I mention follow‑ups.
 
