@@ -38,3 +38,16 @@ Feel free to fork or clone this repository and adapt it for your own use.  If yo
 ## License
 
 This project is released under the MIT License.  See [`LICENSE`](LICENSE) for details.
+
+
+## Example Screenshots
+
+Below are example views from the Airtable base that you can create with this framework. These screenshots have been sanitized and contain no personal or confidential data.
+
+### Revenue Dashboard
+
+![Revenue Dashboard](Revenue_Dashboard.png)
+
+### Active Tasks View
+
+![Active Tasks](Active_Tasks.png)
