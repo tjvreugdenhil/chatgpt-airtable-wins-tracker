@@ -1,0 +1,14 @@
+# Ignore Python cache and local env files
+__pycache__/
+.env
+.env.*
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+node_modules/
+/.idea/
+/.vscode/
+.DS_Store
